@@ -5,7 +5,7 @@ We're designing a report of the top 100 chief complaints that can be taken care 
 ![Virtual Primary Care Intro](https://github.com/goinvo/VirtualPrimaryCare/blob/master/documents/virtual_primary_care_intro.png)
 
 ## Intro
- - 2.1 billion encounters/year in US  
+ - 2.1 billion encounters per year in US[1]
  - 2 studies have indicated that 1.7 billion of those encounters could have been done virtually  
  - Have cell phone, have access to care, everywhere  
  - Too expensive  
@@ -19,6 +19,9 @@ We're designing a report of the top 100 chief complaints that can be taken care 
 
 ## Contribute
 If you'd like to contribute to this project, let us know at hello@goinvo.com.
+
+## References
+1. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1783926/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1783926/)  
 
 ## Authors
 [GoInvo](https://www.goinvo.com)  
