@@ -6,7 +6,7 @@ We're designing a report of the top 100 chief complaints that can be taken care 
 
 ## Intro
  - 2.1 billion encounters per year in US[1]
- - 2 studies have indicated that 1.7 billion of those encounters could have been done virtually  
+ - 2 studies have indicated that 1.7 billion of those encounters could have been done virtually[locate references] 
  - Have cell phone, have access to care, everywhere  
  - Too expensive  
  - Doctor burnout, # of clinicians, gap is widening between Dr to patient, practice anywhere  
