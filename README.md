@@ -2,6 +2,8 @@
 ## Mission: Validating what primary care encounters can be virtual.
 We're designing a report of the top 100 chief complaints that can be taken care of virtually to allow clinics to transition from a physical only encounter to a mix of physical and virtual.
 
+![Virtual Primary Care Intro](https://github.com/goinvo/VirtualPrimaryCare/blob/master/documents/virtual_primary_care_intro.png)
+
 ## Intro
  - 2.1 billion encounters/year in US  
  - 2 studies have indicated that 1.7 billion of those encounters could have been done virtually  
