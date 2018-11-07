@@ -15,7 +15,7 @@ We're designing a report of the top 100 chief complaints that can be taken care 
  - Financial impact to Primarcy Care industry (what if 20% moves to virtual, 50%, 70%)
 
 ## Draft Documents
-[Breakdown of what we can do virtually](https://docs.google.com/spreadsheets/d/1pez_Wy8TnsMmifLU1xFrJ87b1SoH65OnwL6eQUiNy_A/edit?usp=sharing)
+[Breakdown of what primary care encounters can be completed virtually](https://docs.google.com/spreadsheets/d/1pez_Wy8TnsMmifLU1xFrJ87b1SoH65OnwL6eQUiNy_A/edit?usp=sharing)
 
 ## References
 1. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1783926/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1783926/)  
