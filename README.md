@@ -20,6 +20,7 @@ We're designing a report of the top 100 chief complaints that can be taken care 
  - Economic impact of each reason for visit that is virtual
  - License for each data
  - Data overlap with Determinants of Health
+ - Increasing the list of reasons for visits to top 50 or 100 for analyzing
 
 ## References
 1. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1783926/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1783926/)  
