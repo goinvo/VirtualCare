@@ -15,10 +15,10 @@ We're designing a report of the top 100 chief complaints that can be taken care 
 [Breakdown of what primary care encounters can be completed virtually](https://docs.google.com/spreadsheets/d/1pez_Wy8TnsMmifLU1xFrJ87b1SoH65OnwL6eQUiNy_A/edit?usp=sharing)
 
 ## Further Research Needs
- - How can each reason for visit be conducted virtually
+ - How each visit reason can be conducted virtually
  - What health data needs to be collected for each reason for visit
- - Economic impact of each reason for visit that is virtual
- - License for each data
+ - Economic impact of each visit reason that is virtual
+ - License for the data
  - Data overlap with Determinants of Health
  - Increasing the list of reasons for visits to top 50 or 100 for analyzing
  - Rule-set for identifying visit type (virtual or face-to-face)
